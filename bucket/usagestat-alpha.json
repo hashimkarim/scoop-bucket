@@ -1,12 +1,12 @@
 {
-  "version": "2.0.0-alpha.3",
+  "version": "2.0.0-alpha.4",
   "description": "Alpha CLI, daemon and local dashboard for AI provider usage. Desktop acceptance and signing are pending.",
   "homepage": "https://github.com/hashimkarim/usagestat",
   "license": "MIT",
   "architecture": {
     "64bit": {
-      "url": "https://github.com/hashimkarim/usagestat/releases/download/v2.0.0-alpha.3/usagestat-windows-x86_64.zip",
-      "hash": "c2b513ecb096b93a7815a0f4d4b0a09c2085e74703423cd27195dbc6113756b4"
+      "url": "https://github.com/hashimkarim/usagestat/releases/download/v2.0.0-alpha.4/usagestat-windows-x86_64.zip",
+      "hash": "c9849c4a90a03a3aec9a390b2720a167c959cafe5821c215aa1d2f45c9fe95fc"
     }
   },
   "bin": [
